@@ -32,4 +32,4 @@ Este guia é inspirado em fontes como:
 
 ## ✍️ Autor
 
-* [Lucas Tomazela](https://github.com/LucasFTomazela)
+* [Lucas F. Tomazela](https://github.com/LucasFTomazela)
