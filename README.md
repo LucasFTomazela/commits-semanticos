@@ -5,7 +5,7 @@ Este guia foi desenvolvido com base nas práticas recomendadas de commits semân
 ## Estrutura do Commit
 Os commits devem seguir o formato abaixo, onde o _tipo_ é obrigatório, e a descrição deve resumir a ação do commit de forma clara:
 
-\`<tipo>: <descrição>\`
+```<tipo>: <descrição>```
 
 
 ## Tipos de Commits
